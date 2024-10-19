@@ -1,0 +1,2 @@
+import os
+print(os.path.exists(r'E:\New folder\opencv_face_detector_uint8(1).pb'))
